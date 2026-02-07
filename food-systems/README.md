@@ -4,14 +4,16 @@
 
 ## Overview
 
-Food sovereignty is the foundation of any independent community. This section provides practical guidance for designing and implementing food systems that can feed your community year-round while building soil health, biodiversity, and resilience to climate disruption.
+Food sovereignty is the foundation of any independent community. This section provides practical guidance for designing and implementing agroecological food systems that can feed your community year-round while regenerating ecosystems, building biodiversity, and creating resilience to climate disruption. Our approach integrates permaculture design principles with agroecological science to create food systems that work with natural processes rather than against them.
 
 ## Core Principles
 
-### Permaculture Design Ethics
-1. **Earth Care**: Work with natural systems to regenerate soil and ecosystems
-2. **People Care**: Ensure everyone has access to healthy, culturally appropriate food
-3. **Fair Share**: Distribute surplus and resources equitably
+### Agroecological Design Ethics
+1. **Earth Care**: Work with natural systems to regenerate soil and ecosystems while enhancing biodiversity
+2. **People Care**: Ensure everyone has access to healthy, culturally appropriate food and participates in food system decisions
+3. **Fair Share**: Distribute surplus and resources equitably while supporting local food sovereignty
+4. **Ecological Integration**: Design food systems as part of natural ecosystems that enhance ecological functions
+5. **Social Justice**: Prioritize farmer autonomy, community control, and democratic participation in food systems
 
 ### Design Principles
 - **Observe and Interact**: Spend a full year observing your land before making major changes
@@ -22,9 +24,25 @@ Food sovereignty is the foundation of any independent community. This section pr
 - **Design from Patterns to Details**: Start with landscape-scale planning
 - **Integrate Rather than Segregate**: Create beneficial relationships between elements
 - **Use Small and Slow Solutions**: Start small, learn, then scale up
-- **Use and Value Diversity**: Polycultures are more resilient than monocultures
+- **Use and Value Diversity**: Maximize genetic, species, and structural diversity for resilience and productivity
 - **Use Edges and Value the Marginal**: The most productive areas are often at boundaries
-- **Creatively Use and Respond to Change**: Design systems that adapt and evolve
+- **Creatively Use and Respond to Change**: Design systems that adapt and evolve through participatory management
+- **Enhance Biodiversity**: Create habitat for beneficial organisms and integrate wild species
+- **Build Soil Life**: Focus on soil biology and living systems rather than chemical inputs
+- **Close Nutrient Loops**: Cycle nutrients within the system to minimize external inputs
+
+## Agroecological Integration
+
+This food systems guide is built on agroecological principles that view farms as ecosystems. For comprehensive coverage of ecological farming methods, see our dedicated [Agroecology Guide](./agroecology.md), which covers:
+
+- **Ecological System Design**: Biodiversity enhancement, energy flow management, and natural pest control
+- **Soil Ecosystem Development**: Building living soil through biological processes
+- **Integrated Livestock Systems**: Holistic grazing and animal integration for regenerative outcomes  
+- **Climate Adaptation**: Building resilience to weather extremes and long-term climate change
+- **Seed Sovereignty**: Community-controlled seed systems and genetic resource conservation
+- **Economic Justice**: Alternative economic models that support farmer autonomy and community food security
+
+The following sections provide practical implementation guidance that complements these ecological principles.
 
 ## Assessment and Planning
 

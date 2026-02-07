@@ -17,7 +17,7 @@
 - Cooking needs: 4-8 ft³/day per person = 16-32 ft³/day
 - System produces 150-200% of cooking gas needs
 
-### DIY Digester Construction
+### DIY Bio-Digester Construction
 **Simple Barrel Digester:**
 - 55-gallon drum with gas collection dome
 - PVC gas outlet with water seal
